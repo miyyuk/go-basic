@@ -1,0 +1,12 @@
+Sakura
+090-1234-5678
+sakura@example.com
+
+Kaede
+080-1234-5678
+kaede@example.com
+
+Yuzu
+070-1234-5678
+yuzu@example.com
+
